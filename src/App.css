@@ -1,0 +1,27 @@
+.productsDiv div{
+  width: 250px;
+  height: 350px;
+  border: 1px solid black;
+}
+img{
+  width: 250px;
+  height: 200px;
+}
+.productsDiv{
+  display: flex;
+  gap: 150px;
+}
+.basket{
+  margin: 0;
+  width: 100%;
+  height: max-content;
+  background-color: aqua;
+}
+.wish{
+  font-size: 100px;
+}
+.wishlist{
+  width: 100%;
+  height: max-content;
+  background-color: burlywood;
+}
